@@ -15,6 +15,7 @@ Navigate through the posts using Previous and Next buttons, with loading and err
 
 💅 Styled with basic CSS
 
+
 🛠️ Tech Stack
 
 ⚛️ React (Hooks: useState, useEffect)
@@ -25,7 +26,8 @@ Navigate through the posts using Previous and Next buttons, with loading and err
 
 📸 Screenshot
 
-<img width="1366" height="768" alt="pagination-app png" src="https://github.com/user-attachments/assets/165d9fcf-adcb-4e16-9087-c9d5d103279f" />
+<img width="1357" height="614" alt="pagination-app png" src="https://github.com/user-attachments/assets/2974fc69-2fe7-4f6a-a977-cb30412787e3" />
+
 
 VIDEO EXPLANATION :https://drive.google.com/drive/folders/18VBSLXq7n2ukV4uBtUkjo5anJHF6IHp4?usp=sharing
 
