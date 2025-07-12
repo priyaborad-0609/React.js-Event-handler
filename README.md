@@ -1,12 +1,31 @@
-# React + Vite
+📄 React Pagination App using Axios and JSONPlaceholder API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that fetches posts from the JSONPlaceholder API with pagination using axios and useEffect. 🔁
+Navigate through the posts using Previous and Next buttons, with loading and error handling. ⚙️💥
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 Fetches 10 posts per page from a fake API
 
-## Expanding the ESLint configuration
+🔄 Pagination using page numbers
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⏳ Loading indicator while fetching data
+
+❌ Error message display for network issues
+
+💅 Styled with basic CSS
+
+🛠️ Tech Stack
+
+⚛️ React (Hooks: useState, useEffect)
+
+📡 Axios for API calls
+
+🎨 CSS for styling
+
+📸 Screenshot
+
+<img width="1366" height="768" alt="pagination-app png" src="https://github.com/user-attachments/assets/165d9fcf-adcb-4e16-9087-c9d5d103279f" />
+
+VIDEO EXPLANATION :https://drive.google.com/drive/folders/18VBSLXq7n2ukV4uBtUkjo5anJHF6IHp4?usp=sharing
+
