@@ -24,7 +24,8 @@ Navigate through the posts using Previous and Next buttons, with loading and err
 
 🎨 CSS for styling
 
-📸 Screenshot
+
+📸 Screenshot of My Project:
 
 <img width="1357" height="614" alt="pagination-app png" src="https://github.com/user-attachments/assets/2974fc69-2fe7-4f6a-a977-cb30412787e3" />
 
